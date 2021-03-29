@@ -1,13 +1,13 @@
 {
-    "name": "tailieuweb/backend-web2",
+    "name": "VoVanTrungMaru/tai-lieu-web",
     "description": "Create text",
     "keywords": [       
     ],
     "authors": [
         {
-            "name": "tailieuweb",
-            "email": "tailieuweb.com@gmail.com",
-            "homepage": "http://tailieuweb.com"
+            "name": "VoVanTrungMaru",
+            "email": "VoVanTrungMaru.com@gmail.com",
+            "homepage": "http://VoVanTrungMaru.com"
         }
     ],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tailieuweb\\Backend\\": "/"
+            "VoVanTrungMaru\\Backend\\": "/"
         }
     },
     "minimum-stability": "dev"
