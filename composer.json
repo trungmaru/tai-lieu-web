@@ -1,22 +1,5 @@
-{
-    "name": "vo-van-trung-maru/tai-lieu-web",
-    "description": "Create text",
-    "keywords": [       
-    ],
-    "authors": [
-        {
-            "name": "vo-van-trung-maru",
-            "email": "vo-van-trung-maru.com@gmail.com",
-            "homepage": "http://vo-van-trung-maru.com"
-        }
-    ],
-    "license": "MIT",
-    "require": {
-    },
-    "autoload": {
-        "psr-4": {
-            "vo-van-trung-maru\\Backend\\": "/"
-        }
-    },
-    "minimum-stability": "dev"
+  {
+    "name": "tailieuweb/backend",
+    "description": "for testing",
+    "require": {}
 }
