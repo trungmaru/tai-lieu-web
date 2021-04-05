@@ -2,6 +2,7 @@
     "name": "vo-van-trung-maru/tai-lieu-web",
     "description": "for testing",
     "require": {
-          "vovantruong/back-end-web-2": "*"
+          "vovantruong/back-end-web-2": "*",
+          "nhikhang2000/web2-week3": "*"
     }
 }
