@@ -1,9 +1,28 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "vo-van-trung-maru/tai-lieu-web",
+    "description": "test",
+    "keywords": [
+        "vo-van-trung-maru",
+        "laravel 5 package vo-van-trung-maru"
+    ],
+    "authors": [
+        {
+            "name": "vo-van-trung-maru",
+            "email": "vo-van-trung-maru.com@gmail.com",
+            "homepage": "http://vo-van-trung-maru.com"
+        }
+    ],
+    "license": "MIT",
     "require": {
         "vovantruong/back-end-web-2": "*",
 	"nhikhang2000/web2-week3": "*"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+            "vo-van-trung-maru\\test\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
 }
+
 
