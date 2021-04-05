@@ -1,26 +1,9 @@
 {
-    "name": "vo-van-trung-maru/tai-lieu-web",
-    "description": "Test",
-    "keywords": [
-        "tailieuweb",
-        "laravel 5 package tailieuweb"
-    ],
-    "authors": [
-        {
-            "name": "vovantrung",
-            "email": "vovantrung.tdc@gmail.com",
-            "homepage": "http://vovantrung.com"
-        }
-    ],
-    "license": "MIT",
+    "name": "your-vendor-name/package-name",
+    "description": "A short description of what your package does",
     "require": {
         "vovantruong/back-end-web-2": "*",
 	"nhikhang2000/web2-week3": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "vo-van-trung-maru\\Post\\": "/"
-        }
-    },
-    "minimum-stability": "dev"
+    }
 }
+
