@@ -15,7 +15,8 @@
     "license": "MIT",
     "require": {
         "vovantruong/back-end-web-2": "*",
-	"nhikhang2000/web2-week3": "*"
+	"nhikhang2000/web2-week3": "*",
+	 "foostart/package-slideshow": "*"
     },
     "autoload": {
         "psr-4": {
